@@ -23,7 +23,7 @@ After the calculation, "Scores_BASICStraining.csv" and "Scores_BASICStest.csv" a
 After calculating the scores, training a support vector regression model and the evaluation are carried out by the following code.
 
 ```bash
-Run TraininSVRModel.m
+Run TrainingSVRModel.m
 ```
 
 # Reference
