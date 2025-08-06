@@ -5,7 +5,7 @@ Implementation of Full-reference point cloud quality assessment using support ve
 ## Dataset download
 
 This repository does not provide a dataset. 
-When you test a sourcecode with the BASICS (Broad Quality Assessment of Static Point Clouds in a Compression Scenario) dataset [3], the point clouds can be downloaded from the URL: https://zenodo.org/records/10533088.
+When you test a sourcecode with the BASICS (Broad Quality Assessment of Static Point Clouds in a Compression Scenario) dataset [2], the point clouds can be downloaded from the URL: https://zenodo.org/records/10533088.
 
 ## Calculation of 5 types of FR metrics
 
