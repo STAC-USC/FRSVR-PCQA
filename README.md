@@ -1,4 +1,4 @@
-Implementation of Full-reference point cloud quality assessment using support vector regression from [1,2].
+Implementation of Full-reference point cloud quality assessment using support vector regression from [1].
 
 # How to use
 
@@ -28,9 +28,22 @@ Run TrainingSVRModel.m
 
 # Reference
 
-[1] R. Watanabe, S. N. Sridhara, H. Hong, E. Pavez, K. Nonaka, T. Kobayashi and A. Ortega, "Full-reference point cloud quality assessment using support vector regression," Elsevier Signal Processing: Image Communication (Under review).
+[1] Ryosuke Watanabe, Shashank N. Sridhara, Haoran Hong, Eduardo Pavez, Keisuke Nonaka, Tatsuya Kobayashi, Antonio Ortega,
+Full reference point cloud quality assessment using support vector regression, Signal Processing: Image Communication, Volume 131, 117239, 2025.
 
-[2] R. Watanabe, S. N. Sridhara, H. Hong, E. Pavez and A. Ortega, "ICIP 2023 Challenge: Full-Reference and Non-Reference Point Cloud Quality Assessment Methods with Support Vector Regression," 2023 IEEE International Conference on Image Processing Challenges and Workshops (ICIPCW), 2023, pp. 3654-3658.
+```
+@article{WATANABE2025117239,
+title = {Full reference point cloud quality assessment using support vector regression},
+journal = {Signal Processing: Image Communication},
+volume = {131},
+pages = {117239},
+year = {2025},
+issn = {0923-5965},
+doi = {https://doi.org/10.1016/j.image.2024.117239},
+url = {https://www.sciencedirect.com/science/article/pii/S0923596524001401},
+author = {Ryosuke Watanabe and Shashank N. Sridhara and Haoran Hong and Eduardo Pavez and Keisuke Nonaka and Tatsuya Kobayashi and Antonio Ortega},
+}
+```
 
-[3] A. Ak, E. Zerman, M. Quach, A. Chetouani, A. Smolic, G. Valenzise, and P. L. Callet, “Basics: Broad quality assessment of static point clouds in a compression scenario,” IEEE Transactions on Multimedia, pp. 1–13, 2024.
+[2] A. Ak, E. Zerman, M. Quach, A. Chetouani, A. Smolic, G. Valenzise, and P. L. Callet, “Basics: Broad quality assessment of static point clouds in a compression scenario,” IEEE Transactions on Multimedia, pp. 1–13, 2024.
 
